@@ -10,7 +10,7 @@ Time spent: 3 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ x ] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
+- [x] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
   - [x] Number of questions
   - [x] Category of questions
   - [x] Difficulty of questions
