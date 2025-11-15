@@ -10,26 +10,26 @@ Time spent: 3 hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
-  - [x] Number of questions
-  - [x] Category of questions
-  - [x] Difficulty of questions
-  - [x] Type of questions (Multiple Choice or True False)
-- [x] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
+- [ x ] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
+  - [ x ] Number of questions
+  - [ x ] Category of questions
+  - [ x ] Difficulty of questions
+  - [ x ] Type of questions (Multiple Choice or True False)
+- [ x ] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
   - Hint: For Card view visit your FlashCard app. List view is an equivalent to UITableView in UIKit. Much easier to use!
-- [x] Selected choices are marked as user taps their choice (but answered is not presented yet!)
-- [x] User can submit choices and is presented with a score on trivia game
+- [ x ] Selected choices are marked as user taps their choice (but answered is not presented yet!)
+- [ x ] User can submit choices and is presented with a score on trivia game
  
 The following **optional** features are implemented:
 
-- [x] User has answer marked as correct or incorrect after submitting choices.
+- [ x ] User has answer marked as correct or incorrect after submitting choices.
 - [ ] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
 
 The following **additional** features are implemented:
 
-- [x] HTML decoding added so trivia questions and answers display cleanly without encoded characters such as &quot; or &#039;.
-- [x] Clean card-style UI for questions and answer choices.
- - [x] Organized Options screen using Form, Picker, and Stepper components.
+- [ x ] HTML decoding added so trivia questions and answers display cleanly without encoded characters such as &quot; or &#039;.
+- [ x ] Clean card-style UI for questions and answer choices.
+ - [ x ] Organized Options screen using Form, Picker, and Stepper components.
 
 ## Video Walkthrough
 
